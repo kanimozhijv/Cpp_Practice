@@ -1,0 +1,1 @@
+add_library(String_File StringCalculator_helper.cpp StringCalculator.cpp StringValidator.cpp)
